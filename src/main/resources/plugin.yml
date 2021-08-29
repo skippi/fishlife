@@ -1,0 +1,9 @@
+name: fishlife
+version: 0.0.1
+author: skippi
+main: io.github.skippi.fishlife.FishLifePlugin
+website: https://github.com/skippi/fishlife
+api-version: 1.16
+load: STARTUP
+commands:
+  stage:
